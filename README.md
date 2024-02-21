@@ -1,3 +1,3 @@
 # code-review
 
-*Saya @Teguh, mohon izin edit ya bro*
+*Saya @Teguh, mohon izin edit program line 19*
